@@ -1,0 +1,5 @@
+[config]
+    [config.elastic]
+        url = "http://localhost:9200"
+        username = ""
+        password = ""
