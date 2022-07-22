@@ -1,0 +1,10 @@
+[config]
+    [config.general]
+        gatewayURL = ""
+        address = ""
+        balanceThreshold = "100000000000000000000000" # 100k EGLD
+        checkIntervalInMin = 30
+        notificationStep = 8 # num times to skip notifying if the balance check issue persists
+    [config.telegram]
+        groupID = ""
+        apiKey = ""
